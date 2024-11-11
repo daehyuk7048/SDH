@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 void print_Hello(void){
-    printf("Hello \n");
+    printf("Hello from new feature branch!\n");
 }
 
