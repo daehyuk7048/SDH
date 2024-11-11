@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 void print_World(void){
-    printf("World \n");
+    printf("The World is beautiful! \n");
 }
 
